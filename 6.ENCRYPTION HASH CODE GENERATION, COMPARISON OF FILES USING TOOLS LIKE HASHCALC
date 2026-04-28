@@ -1,0 +1,15 @@
+AIM:
+To generate the Hash code using HashCalc Tool.  
+
+PROCEDURE :
+Step 1: Download the HashCalc tool from https://hashcalc.en.softonic.com/ 
+Step 2: Install it and Open tool. 
+Step 3: Now choose any type of File to calculate the different Cryptographic hash for it. 
+Step 4: Choose three dots on Data: Column and select any type of file from the system.
+ 
+
+Step 5: Now click on Calculate, and the Default marked hashes will be calculated on display.  
+
+ 
+
+Step 6: We can mark other than Default settings on it. Try with other cryptographical has that were unmarked on default
