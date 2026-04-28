@@ -1,0 +1,20 @@
+AIM:
+To demonstrate Email header analysis and tracing Route of the mail server.
+
+PROCEDURE:
+
+Step 1: Open Gmail.com and log in to your Gmail account. 
+
+Step 2: Select a mail from the inbox and click on the three dots on the right side. Choose Show Original
+
+ 
+
+
+
+Step 3: Now Origin of the mail and Header are displayed below. Copy the IP address of the sender by locating it under the SPF: column on the Original message.
+
+ 
+
+Step 4: Open Command Prompt type, tracert -h 4 IP_ADDRESS(Replace the IP Address that copied from Original message) 
+
+Step 5: The Trace route of the sender’s IP address will be displayed at a maximum of 4 hops.
