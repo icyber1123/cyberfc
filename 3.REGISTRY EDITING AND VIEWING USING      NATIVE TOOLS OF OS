@@ -1,0 +1,20 @@
+AIM:
+To demonstrate the Registry editing using native tools of OS.
+
+PROCEDURE:
+
+Step 1: Open Command Prompt and type regedit.
+Step 2: Go to HKEY_CURRENT_USER\Control Panel\Desktop import random
+		
+ 
+
+Step 3: Choose any Image from File Explorer and Copy its Path.
+Step 4: Now Return to the Registry editing tool and Right Click on Wallpaper 
+           under HKEY_CURRENT_USER\Control Panel\Desktop
+Step 5: Choose Modify and paste the Image Path under Value data and Click 
+             OK
+ 
+
+Step 6: Close the Regedit Tool window and Signout from Windows
+ 
+Step 7: Now Sign In again to windows, Wallpaper is Changed!
