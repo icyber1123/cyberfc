@@ -1,0 +1,11 @@
+AIM:
+To locate and extract the Image with the Jpeg extension’s metadata through Exif Tool
+
+PROCEDURE:
+
+Step 1: Download Exif Tool from https://bit.ly/exif-tool 
+Step 2: Download the exe file, Extract it and Open the Downloaded Folder to 
+            Command-Line. 
+Step 3: Type the command exiftool(-k).exe Example.jpeg (Here Copy the Path  
+             of Jpeg(Image) file replace with Example.jpeg) 
+Step 4: Jpeg File’s metadata will be displayed.
